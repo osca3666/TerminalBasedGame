@@ -1,3 +1,3 @@
 # TerminalBasedGame
 
-Practice using C++ OOP methods
+Practice using C++ OOP concepts
